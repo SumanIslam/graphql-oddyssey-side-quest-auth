@@ -1,3 +1,4 @@
+/* eslint-disable prettier/prettier */
 import BedroomInput from '../components/BedroomInput';
 import Hero from '../components/Hero';
 import Layout from '../layouts/Layout';

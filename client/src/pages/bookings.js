@@ -1,3 +1,4 @@
+/* eslint-disable prettier/prettier */
 import Bookings from '../components/Bookings';
 import Layout from '../layouts/Layout';
 import QueryResult from '../components/QueryResult';

@@ -1,3 +1,4 @@
+/* eslint-disable prettier/prettier */
 import Logo from '../assets/airlock-logo.svg';
 import PropTypes from 'prop-types';
 import React from 'react';

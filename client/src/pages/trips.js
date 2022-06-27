@@ -1,3 +1,4 @@
+/* eslint-disable prettier/prettier */
 import CurrentTrips from '../components/Trips';
 import Layout from '../layouts/Layout';
 import QueryResult from '../components/QueryResult';

@@ -1,3 +1,4 @@
+/* eslint-disable prettier/prettier */
 import '@apollo/space-kit/reset.css';
 import {extendTheme} from '@chakra-ui/react';
 

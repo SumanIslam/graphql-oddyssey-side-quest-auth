@@ -1,3 +1,4 @@
+/* eslint-disable prettier/prettier */
 import BedroomInput from '../components/BedroomInput';
 import Layout from '../layouts/Layout';
 import ListingCell from '../components/ListingCell';

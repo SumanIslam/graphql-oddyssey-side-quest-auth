@@ -1,3 +1,4 @@
+/* eslint-disable prettier/prettier */
 import Background from '../assets/homepage-bg.png';
 import PropTypes from 'prop-types';
 import React from 'react';

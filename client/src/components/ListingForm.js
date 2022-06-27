@@ -1,3 +1,4 @@
+/* eslint-disable prettier/prettier */
 import PropTypes from 'prop-types';
 import QueryResult from './QueryResult';
 import React, {useState} from 'react';

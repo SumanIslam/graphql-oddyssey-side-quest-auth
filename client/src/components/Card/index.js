@@ -1,3 +1,4 @@
+/* eslint-disable prettier/prettier */
 export {Content} from './Content';
 export {Image} from './Image';
 export {ListingReviews} from './ListingReviews';

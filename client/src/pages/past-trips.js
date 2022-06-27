@@ -1,3 +1,4 @@
+/* eslint-disable prettier/prettier */
 import Layout from '../layouts/Layout';
 import QueryResult from '../components/QueryResult';
 import React from 'react';

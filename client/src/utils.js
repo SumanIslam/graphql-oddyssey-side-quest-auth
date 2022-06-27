@@ -1,3 +1,4 @@
+/* eslint-disable prettier/prettier */
 import DatePicker from 'react-datepicker';
 import areIntervalsOverlapping from 'date-fns/areIntervalsOverlapping';
 import format from 'date-fns/format';

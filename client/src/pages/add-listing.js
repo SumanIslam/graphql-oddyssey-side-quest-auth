@@ -1,3 +1,4 @@
+/* eslint-disable prettier/prettier */
 import Layout from '../layouts/Layout';
 import ListingForm from '../components/ListingForm';
 import React from 'react';

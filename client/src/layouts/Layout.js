@@ -1,3 +1,4 @@
+/* eslint-disable prettier/prettier */
 import Nav from '../components/Nav';
 import PropTypes from 'prop-types';
 import React from 'react';
